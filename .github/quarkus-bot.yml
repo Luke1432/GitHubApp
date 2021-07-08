@@ -3,7 +3,7 @@ triage:
   rules:
     - labels: [area]
       title: "lambda"
-      notify: [Luke1432]
+      notify: [luke1432]
       directories:
         - .github
 
