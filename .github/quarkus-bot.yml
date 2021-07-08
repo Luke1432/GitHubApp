@@ -1,0 +1,14 @@
+triage:
+  rules:
+    - labels: [area/amazon-lambda]
+      title: "lambda"
+      notify: []
+      directories:
+        - extensions/amazon-lambda
+        - integration-tests/amazon-lambda
+    - labels: [area/persistence]
+      title: "db2"
+      notify: []
+      directories:
+        - extensions/reactive-db2-client/
+        - extensions/jdbc/jdbc-db2/
