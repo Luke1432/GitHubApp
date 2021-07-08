@@ -5,6 +5,6 @@ triage:
       title: "lambda"
       notify: [luke1432]
       directories:
-        - .github
+        - .GitHubApp
 
 
