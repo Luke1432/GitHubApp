@@ -1,10 +1,10 @@
+---
 triage:
   rules:
     - labels: [area]
       title: "lambda"
       notify: [Luke1432]
-      
-    - labels: [area]
-      title: "db2"
-      notify: [Luke1432]
+      directories:
+        - .github
+
 
